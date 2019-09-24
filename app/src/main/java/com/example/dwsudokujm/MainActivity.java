@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    int n = 5;
+    int n = 10;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
